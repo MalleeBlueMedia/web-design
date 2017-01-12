@@ -2,7 +2,7 @@
 
 For more details see [WordPress Web Design](http://www.malleeblue.com/web-design-service-and-pricing/).
 
-[Web Design for Small Business](http://www.malleeblue.com/web-design-service-and-pricing/) ![Web Design Ideas](https://i1.wp.com/www.malleeblue.com/wp-content/uploads/2015/09/Coffee-Now-and-Then.png)
+![Web Design Ideas](https://i1.wp.com/www.malleeblue.com/wp-content/uploads/2015/09/Coffee-Now-and-Then.png)
 
 ### Markdown
 
