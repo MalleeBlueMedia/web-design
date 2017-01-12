@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome Mallee Blue Media Web Design - Australia
+
+For more details see
+
+[Mallee Blue Marketing Strategy](http://www.malleeblue.com/small-business-ditigal-marketing-and-web-design-strategy/).
+[Mallee Blue Design Services](http://www.malleeblue.com/web-design-service-and-pricing/).
+
 
 You can use the [editor on GitHub](https://github.com/MalleeBlueMedia/web-design/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -26,7 +32,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### Jekyll Themes
 
