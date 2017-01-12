@@ -1,5 +1,7 @@
-# web-design
-Small Business Web Design
+# web-design for Small Business
+
+For more details see [WordPress Web Design](http://www.malleeblue.com/web-design-service-and-pricing/).
+
 
 ### Markdown
 
@@ -20,8 +22,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
