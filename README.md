@@ -4,30 +4,33 @@ For more details see [WordPress Web Design](http://www.malleeblue.com/web-design
 
 ![Web Design Ideas](https://i1.wp.com/www.malleeblue.com/wp-content/uploads/2015/09/Coffee-Now-and-Then.png)
 
-### Markdown
+## Web Design Resources
+####A set of high quality resources for small busines web design. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##### Web Design Performance Tests
 
-```markdown
-Syntax highlighted code block
+Test the performance of you site.
 
-# Header 1
-## Header 2
-### Header 3
+* [gtmetrix](http://gtmetrix.com/)
+* [pingdom](http://tools.pingdom.com/fpt/)
+* [google pagespeed](https://developers.google.com/speed/pagespeed/insights/)
 
-- Bulleted
-- List
+##### Testing - cross browser
 
-1. Numbered
-2. List
+Use the cloud to see what you site looks like on other devices and browsers
 
-**Bold** and _Italic_ and `Code` text
-```
+* [browserstack](http://www.browserstack.com/)
+* [browsertap](http://browsertap.com/)
+* [saucelabs](http://saucelabs.com/)
+* [cross browser testing](http://crossbrowsertesting.com/)
+* [can i use](http://caniuse.com/) - reference
+* [quirksmode](http://www.quirksmode.org/compatibility.html) - reference
 
-### Jekyll Themes
+##### Minify/Uglify and Beautify
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SportyDave/wordpress-web-design/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Minify your code for production, or beautify it for readablity.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [UglifyJS](http://marijnhaverbeke.nl//uglifyjs)
+* [Refresh-SF](http://refresh-sf.com/)
+* [jsbeautifier](http://jsbeautifier.org/)
+* [codebeautify.org](http://codebeautify.org/)
